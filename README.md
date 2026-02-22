@@ -1,4 +1,4 @@
-# FlashForge — Gemini Flashcard Notes Generator
+# FlashForge —  Flashcard Notes Generator
 
 A premium Next.js site that lets users **sign up / sign in with Supabase** and generate **beautiful flashcards from notes** using the **Gemini API**.
 
